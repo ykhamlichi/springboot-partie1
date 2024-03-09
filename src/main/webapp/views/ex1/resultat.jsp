@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Premi&egrave;re page de view</h2>
-    <p>Bonjour ${ name }, ${ prenom } votre email est : ${ email }</p>
+    La somme de ${ number1} et ${ number2 } = ${ somme }
 </body>
 </html>

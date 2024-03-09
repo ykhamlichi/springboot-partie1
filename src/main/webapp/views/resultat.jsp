@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h2>Premi&egrave;re page de view</h2>
-    <p>Bonjour ${ name }, ${ prenom } votre email est : ${ email }</p>
+    Bonjour ${ client }
 </body>
 </html>
